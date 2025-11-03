@@ -10,3 +10,7 @@
 3. Endpoint PUT untuk mengupdate data music
 
 <img width="1920" height="1080" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/64a72c8d-7b26-4f17-a3b4-9f9b6ecfd1dc" />
+
+4. Endpoint delete untuk menghapus
+
+<img width="1920" height="1080" alt="Screenshot (479)" src="https://github.com/user-attachments/assets/4f95be45-db30-48b4-8c3f-e5dae528d53c" />
