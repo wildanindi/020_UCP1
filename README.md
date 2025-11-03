@@ -6,3 +6,7 @@
 2. Endpoint POST untuk create data music
 
 <img width="1920" height="1080" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/ddc4660a-c73f-4fa3-ac54-600a6557c60b" />
+
+3. Endpoint PUT untuk mengupdate data music
+
+<img width="1920" height="1080" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/64a72c8d-7b26-4f17-a3b4-9f9b6ecfd1dc" />
