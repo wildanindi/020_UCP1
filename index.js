@@ -74,7 +74,7 @@ app.delete("/Music/:id", async (req, res) => {
 })
 
 app.listen(port, async () => {
-    console.log(`Server berjalan di http://localhost:${port}`);
+    console.log(`Server dah jalan cuyy http://localhost:${port}`);
     try {
         await db.sequelize.authenticate();
         console.log('Koneksi database berhasil.');
