@@ -3,3 +3,6 @@
 <img width="1920" height="1080" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/dd18ac2e-e5f5-45c9-9cd0-5d369e0f7d72" />
 
 
+2. Endpoint POST untuk create data music
+
+<img width="1920" height="1080" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/ddc4660a-c73f-4fa3-ac54-600a6557c60b" />
